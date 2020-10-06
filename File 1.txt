@@ -1,3 +1,7 @@
 Hi,
 
 This is a file created in local machine.
+
+--------------------
+
+This content was added in the remote repository.
